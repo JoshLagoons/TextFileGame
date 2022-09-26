@@ -1,0 +1,9 @@
+Enemy|HP|ATK
+Goblin God|900|50
+Dragon God|700|100
+Frog God|300|100
+
+Player|HP|ATK
+Player 300|300
+--------------------
+

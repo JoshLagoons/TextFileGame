@@ -1,0 +1,14 @@
+C:\Users\13129\Desktop\TextFileGame\TextFileGame\bin\Debug\netcoreapp3.1\TextFileGame.exe
+C:\Users\13129\Desktop\TextFileGame\TextFileGame\bin\Debug\netcoreapp3.1\TextFileGame.deps.json
+C:\Users\13129\Desktop\TextFileGame\TextFileGame\bin\Debug\netcoreapp3.1\TextFileGame.runtimeconfig.json
+C:\Users\13129\Desktop\TextFileGame\TextFileGame\bin\Debug\netcoreapp3.1\TextFileGame.runtimeconfig.dev.json
+C:\Users\13129\Desktop\TextFileGame\TextFileGame\bin\Debug\netcoreapp3.1\TextFileGame.dll
+C:\Users\13129\Desktop\TextFileGame\TextFileGame\bin\Debug\netcoreapp3.1\TextFileGame.pdb
+C:\Users\13129\Desktop\TextFileGame\TextFileGame\obj\Debug\netcoreapp3.1\TextFileGame.csproj.AssemblyReference.cache
+C:\Users\13129\Desktop\TextFileGame\TextFileGame\obj\Debug\netcoreapp3.1\TextFileGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13129\Desktop\TextFileGame\TextFileGame\obj\Debug\netcoreapp3.1\TextFileGame.AssemblyInfoInputs.cache
+C:\Users\13129\Desktop\TextFileGame\TextFileGame\obj\Debug\netcoreapp3.1\TextFileGame.AssemblyInfo.cs
+C:\Users\13129\Desktop\TextFileGame\TextFileGame\obj\Debug\netcoreapp3.1\TextFileGame.csproj.CoreCompileInputs.cache
+C:\Users\13129\Desktop\TextFileGame\TextFileGame\obj\Debug\netcoreapp3.1\TextFileGame.dll
+C:\Users\13129\Desktop\TextFileGame\TextFileGame\obj\Debug\netcoreapp3.1\TextFileGame.pdb
+C:\Users\13129\Desktop\TextFileGame\TextFileGame\obj\Debug\netcoreapp3.1\TextFileGame.genruntimeconfig.cache
